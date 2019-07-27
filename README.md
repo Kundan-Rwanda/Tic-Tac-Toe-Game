@@ -1,5 +1,5 @@
 # About Tic Tac Toe Game
-* A game in which two players seek in alternate turns to complete a row, a column, or a diagonal with either three O's or three X's drawn in the spaces of a grid of nine squares; noughts and crosses.
+* Tic-tac-toe (American English), noughts and crosses (British English), or Xs and Os is a paper-and-pencil game for two players, X and O, who take turns marking the spaces in a 3×3 grid. The player who succeeds in placing three of their marks in a horizontal, vertical, or diagonal row wins the game [Read More](https://en.wikipedia.org/wiki/Tic-tac-toe)  
 
 ## Instruction
 1. TicTacToe Board [3*3] is displayed on program run
